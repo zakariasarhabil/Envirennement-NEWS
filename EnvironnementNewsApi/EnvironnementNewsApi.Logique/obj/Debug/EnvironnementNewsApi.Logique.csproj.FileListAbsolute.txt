@@ -1,0 +1,11 @@
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Logique\bin\Debug\EnvironnementNewsApi.Logique.dll
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Logique\bin\Debug\EnvironnementNewsApi.Logique.pdb
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Logique\obj\Debug\EnvironnementNewsApi.Logique.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Logique\obj\Debug\EnvironnementNewsApi.Logique.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Logique\obj\Debug\EnvironnementNewsApi.Logique.dll
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Logique\obj\Debug\EnvironnementNewsApi.Logique.pdb
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Logique\bin\Debug\EnvironnementNewsApi.Logique.dll
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Logique\bin\Debug\EnvironnementNewsApi.Logique.pdb
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Logique\obj\Debug\EnvironnementNewsApi.Logique.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Logique\obj\Debug\EnvironnementNewsApi.Logique.dll
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Logique\obj\Debug\EnvironnementNewsApi.Logique.pdb
