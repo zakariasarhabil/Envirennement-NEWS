@@ -1,0 +1,26 @@
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EnvironnementNewsApi.Data.dll.config
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EnvironnementNewsApi.Data.dll
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EnvironnementNewsApi.Data.pdb
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EntityFramework.dll
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EntityFramework.xml
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\obj\Debug\EnvironnementNewsApi.Data.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\obj\Debug\EnvironnementNewsApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\obj\Debug\EnvironnementNewsApi.Data.csproj.CopyComplete
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\obj\Debug\EnvironnementNewsApi.Data.dll
+C:\Users\Youcode\source\repos\EnvironnementNewsApi\EnvironnementNewsApi.Data\obj\Debug\EnvironnementNewsApi.Data.pdb
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EnvironnementNewsApi.Data.dll.config
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EnvironnementNewsApi.Data.dll
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EnvironnementNewsApi.Data.pdb
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EntityFramework.dll
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EntityFramework.xml
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\obj\Debug\EnvironnementNewsApi.Data.csproj.CopyComplete
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\obj\Debug\EnvironnementNewsApi.Data.dll
+C:\Users\Youcode\Desktop\asp news\EnvironnementNewsApi\EnvironnementNewsApi.Data\obj\Debug\EnvironnementNewsApi.Data.pdb
